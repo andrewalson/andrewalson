@@ -1,6 +1,3 @@
-### Hi there 👋
-
-[![andrewalson's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrewalson)](https://github.com/anuraghazra/github-readme-stats)
 [![andrewalson's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrewalson)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
